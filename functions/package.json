@@ -17,10 +17,16 @@
   "dependencies": {
     "firebase-admin": "^10.0.2",
     "firebase-functions": "^3.18.0",
+    "get-stream": "^6.0.1",
+    "glob": "^8.0.3",
     "google-auth-library": "^8.1.0",
-    "googleapis": "^105.0.0"
+    "googleapis": "^105.0.0",
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
+    "@nuxt/types": "^2.15.8",
+    "@types/get-stream": "^3.0.2",
+    "@types/glob": "^7.2.0",
     "@typescript-eslint/eslint-plugin": "^5.12.0",
     "@typescript-eslint/parser": "^5.12.0",
     "eslint": "^8.9.0",
